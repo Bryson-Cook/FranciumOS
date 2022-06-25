@@ -1,0 +1,11 @@
+# Misc Files
+Makefile
+.vscode/
+fixpath.txt
+
+# OS Files
+*.bin
+*.o
+*.dis
+*.elf
+*.iso
